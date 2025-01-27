@@ -62,18 +62,7 @@ This project is a **Car Sales Dashboard** built using Power BI to visualize key 
 
 ---
 
-## Repository Structure
 
-```
-Car-Sales-Dashboard/
-|-- images/
-|   |-- dashboard.png  # Screenshot of the dashboard
-|-- data/              # Sample data used for the dashboard
-|-- dashboard.pbix     # Power BI file
-|-- README.md          # Project documentation
-```
-
----
 
 ## License
 
